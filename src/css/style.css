@@ -1,0 +1,50 @@
+* {
+  font-family: sans-serif;
+}
+
+.color-box {
+  width: 150px;
+  height: 150px;
+
+  transition: background-color 500ms ease;
+}
+
+.game {
+  padding: 100px 0;
+}
+
+.game__seconds {
+  text-align: center;
+  font-weight: 700;
+}
+
+.game__box {
+  width: 75px;
+  height: 75px;
+  margin: 0 auto 20px auto;
+
+  cursor: pointer;
+
+  background-color: #05c998;
+}
+
+.game__start {
+  display: block;
+  margin: 0 auto;
+  padding: 8px;
+  border: none;
+
+  background-color: #c8ff47;
+  transition: background-color 250ms ease;
+
+  cursor: pointer;
+}
+
+.game__start:hover,
+.game__start:focus {
+  background-color: #9ede09;
+}
+
+.game__start:disabled {
+  background-color: #e8ffb3;
+}

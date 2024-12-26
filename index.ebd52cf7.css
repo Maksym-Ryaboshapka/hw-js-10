@@ -1,0 +1,2 @@
+*{font-family:sans-serif}.color-box{width:150px;height:150px;transition:background-color .5s}.game{padding:100px 0}.game__seconds{text-align:center;font-weight:700}.game__box{cursor:pointer;background-color:#05c998;width:75px;height:75px;margin:0 auto 20px}.game__start{cursor:pointer;background-color:#c8ff47;border:none;margin:0 auto;padding:8px;transition:background-color .25s;display:block}.game__start:hover,.game__start:focus{background-color:#9ede09}.game__start:disabled{background-color:#e8ffb3}
+/*# sourceMappingURL=index.ebd52cf7.css.map */
